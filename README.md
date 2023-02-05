@@ -1,7 +1,7 @@
 # atds-ntua-2023
 Advanced Topics of Database Systems - Group 55 - NTUA
 
-We are using a [Pyspark](https://spark.apache.org/) Standalone Cluster implemented with 2 linux VMs from [Okeanos](https://okeanos-knossos.grnet.gr).
+We are using a [PySpark](https://spark.apache.org/) Standalone Cluster implemented with 2 linux VMs from [Okeanos](https://okeanos-knossos.grnet.gr).
 We also use a distributed file system -[Apache Hadoop](https://hadoop.apache.org/).
 
 ## Team Members
