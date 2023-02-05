@@ -8,9 +8,9 @@ We also use a distributed file system -[Apache Hadoop](https://hadoop.apache.org
 
 - [Mikaela Ksilia](https://github.com/mikaelaksil),
 
-- [Nikoletta Saliari](https://github.com/nicolettasal),
+- [Nikoletta Saliari](https://github.com/nicolettasal)
 
-## Assignement
+## Assignment
 
 We have to implement 5 Queries described below:
 
